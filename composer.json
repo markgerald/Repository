@@ -1,5 +1,5 @@
 {
-    "name": "janez89/repository",
+    "name": "markgerald/repository",
     "description": "Repository Pattern for Eloquent",
     "type": "library",
     "keywords": ["laravel", "lumen", "repository", "pattern"],
